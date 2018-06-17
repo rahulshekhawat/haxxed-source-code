@@ -1,0 +1,12 @@
+AM_* filter=lfs diff=lfs merge=lfs -text
+A_* filter=lfs diff=lfs merge=lfs -text
+ML_* filter=lfs diff=lfs merge=lfs -text
+M_* filter=lfs diff=lfs merge=lfs -text
+PHYS_* filter=lfs diff=lfs merge=lfs -text
+SKEL_* filter=lfs diff=lfs merge=lfs -text
+SK_* filter=lfs diff=lfs merge=lfs -text
+SW_* filter=lfs diff=lfs merge=lfs -text
+S_* filter=lfs diff=lfs merge=lfs -text
+T_* filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*Music* filter=lfs diff=lfs merge=lfs -text
