@@ -1,6 +1,6 @@
 # TairaGames GameJam: Haxxor Edition
 
-This game was developed for TairaGames January 2018 GameJam. This repository currently contains only the source code (for both C++ and blueprints) used in game.
+This game was developed for TairaGames January 2018 GameJam. This repository currently contains only the source code (both C++ and blueprints) used in game.
 
 ## Built With
 
